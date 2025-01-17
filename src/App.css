@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+}
+
+.black-bg{
+  display: flex;
+  background-color: black;
+  font-size: width=100%;
+  height: 50px;
+  color: white;
+  justify-content: center;
+  align-items: center;
+}
